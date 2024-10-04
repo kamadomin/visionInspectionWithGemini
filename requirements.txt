@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+pandas
+google-cloud-storage
+pytz
+google-cloud-aiplatform
+reportlab
+PyPDF2
+langchain
+faiss-cpu
+langchain-google-vertexai
